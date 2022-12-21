@@ -53,7 +53,7 @@ The application is a browser based video-game built in javascript where the user
 
 #### Install Dependencies 
 
-* Open the index.html file in the browser and go to the console window of the browser by prseeing F-12
+* Open the index.html file in the browser and go to the console window of the browser by pressing F-12
 
 ## Screenshots
 
